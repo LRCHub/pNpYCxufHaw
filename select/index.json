@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Summers",
+  "base_artist": "Shounanno Kaze",
+  "createdAt": "2026-02-12T11:47:04.498114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "7 Summers",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/01_7_Summers_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "7 Summers",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/02_7_Summers_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer's Comin'",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/03_Summer's_Comin'_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summers Like That",
+      "artist": "Kimberly Kelly",
+      "has_synced": false,
+      "path": "select/04_Summers_Like_That_Kimberly_Kelly.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summers Over Interlude",
+      "artist": "Drake feat. Majid Jordan",
+      "has_synced": true,
+      "path": "select/05_Summers_Over_Interlude_Drake_feat._Majid_Jordan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summers Over Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/06_Summers_Over_Interlude_Drake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer's Gone",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/07_Summer's_Gone_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer's Over",
+      "artist": "Sheena Easton",
+      "has_synced": false,
+      "path": "select/08_Summer's_Over_Sheena_Easton.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summers of My Life",
+      "artist": "Gino Vannelli",
+      "has_synced": true,
+      "path": "select/09_Summers_of_My_Life_Gino_Vannelli.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All On a Summers Night",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/10_All_On_a_Summers_Night_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Summer's Glory",
+      "artist": "Alcest",
+      "has_synced": true,
+      "path": "select/11_Summer's_Glory_Alcest.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer's Gone",
+      "artist": "Pretty Lights",
+      "has_synced": false,
+      "path": "select/12_Summer's_Gone_Pretty_Lights.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Dream of Two Summers",
+      "artist": "Cocoanut Groove",
+      "has_synced": false,
+      "path": "select/13_A_Dream_of_Two_Summers_Cocoanut_Groove.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Summer's Day",
+      "artist": "Chief",
+      "has_synced": true,
+      "path": "select/14_Summer's_Day_Chief.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summers",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_01_Summers_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Summers",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_02_Summers_湘南乃風.txt"
+    }
+  ]
+}
